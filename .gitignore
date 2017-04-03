@@ -1,0 +1,13 @@
+*~
+*.diff
+*.patch
+.DS_Store
+.project
+.settings
+.idea
+
+/custom/config.php
+
+/storage
+/modules/addons/*
+!modules/addons/.gitkeep
