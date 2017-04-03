@@ -8,6 +8,7 @@
 
 /custom/config.php
 
-/storage
+/storage/*
 /modules/addons/*
 !modules/addons/.gitkeep
+!storage/.gitkeep
