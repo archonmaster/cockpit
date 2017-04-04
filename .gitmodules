@@ -8,3 +8,6 @@
 [submodule "modules/addons/yamap"]
 	path = modules/addons/yamap
 	url = https://github.com/archonmaster/cockpit-yamap.git
+[submodule "modules/addons/multivalue"]
+	path = modules/addons/multivalue
+	url = https://github.com/archonmaster/cockpit-multivalue.git
