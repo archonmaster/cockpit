@@ -11,3 +11,6 @@
 [submodule "modules/addons/multivalue"]
 	path = modules/addons/multivalue
 	url = https://github.com/archonmaster/cockpit-multivalue.git
+[submodule "recaptcha"]
+	path = recaptcha
+	url = https://github.com/archonmaster/cockpit-recaptcha.git
