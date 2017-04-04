@@ -1,6 +1,10 @@
 [submodule "modules/addons/less"]
 	path = modules/addons/less
 	url = https://github.com/archonmaster/cockpit-less.git
-[submodule "translit"]
-	path = translit
+
+[submodule "modules/addons/translit"]
+	path = modules/addons/translit
 	url = https://github.com/archonmaster/cockpit-translit.git
+[submodule "modules/addons/yamap"]
+	path = modules/addons/yamap
+	url = https://github.com/archonmaster/cockpit-yamap.git
