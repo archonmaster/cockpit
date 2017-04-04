@@ -14,3 +14,6 @@
 [submodule "recaptcha"]
 	path = recaptcha
 	url = https://github.com/archonmaster/cockpit-recaptcha.git
+[submodule "calc"]
+	path = calc
+	url = git@bitbucket.org:profpub/calc.git
