@@ -1,0 +1,3 @@
+[submodule "modules/addons/less"]
+	path = modules/addons/less
+	url = https://github.com/archonmaster/cockpit-less.git
